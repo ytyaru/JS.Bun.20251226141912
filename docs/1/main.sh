@@ -6,3 +6,4 @@ bun get.js
 bun post.js
 bun build --compile ./random-id.ts --outfile rid
 bun server-web-api.js
+bun test lib.test.ts
